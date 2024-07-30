@@ -45,7 +45,6 @@ document.addEventListener("DOMContentLoaded", () => {
     function disableDarkMode() {
         body.classList.remove('dark');
         darkModeIcon.classList.remove('dark');
-        section.classList.remove('dark');
         localStorage.setItem('darkMode', 'light');
     }
 })
