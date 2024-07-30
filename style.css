@@ -10,6 +10,12 @@
             background-color: black;
          }
 
+.dark .line {
+    width: 33.42vw;
+            height: 2px;
+            background-color: white;
+}
+
 .gold-circle2 {
     margin: 0 auto;
     width: 200px;
